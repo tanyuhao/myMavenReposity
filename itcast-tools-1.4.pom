@@ -1,0 +1,7 @@
+<?xml version="1.0"?><project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>itcast</groupId>
+  <artifactId>itcast-tools</artifactId>
+  <name>JavaBeans(TM) Activation Framework</name>
+  <version>1.4</version>
+</project>
